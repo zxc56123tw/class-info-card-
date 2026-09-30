@@ -1,0 +1,68 @@
+h1 {
+  font-size: 30px;
+  margin-bottom: 16px;
+}
+
+.card {
+  width: 340px;
+  border: solid 1px #d1d5dc;
+}
+
+.card-content {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 32px;
+  padding-top: 32px;
+  border-bottom: solid 1px #d1d5dc;
+}
+
+.buy-card {
+  border-bottom: solid 1px #d1d5dc;
+}
+
+#btn-cart {
+  font-size: 18px;
+  color: white;
+  background-color: #ff133e;
+  width: 292px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+#btn-buy {
+  font-size: 18px;
+  color: #ff133e;
+  background-color: white;
+  width: 292px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.btn-class-red {
+  /* padding-top: 16px;  */
+  /* ⬆️ 原本就有？ */
+
+  padding-bottom: 8px;
+}
+
+.btn-class-white {
+  padding-bottom: 24px;
+}
+
+.p-middle {
+  padding-top: 24px;
+  padding-bottom: 16px;
+  font-size: 14px;
+}
+
+ul li {
+  list-style-type: circle;
+  margin-left: 24px;
+  margin-bottom: 12px;
+  font-size: 14px;
+}
+
+.p-bottom {
+  padding: 16px;
+  font-size: 14px;
+}
