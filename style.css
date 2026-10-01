@@ -27,6 +27,7 @@ h1 {
   width: 292px;
   padding-top: 12px;
   padding-bottom: 12px;
+  border-color: #ff133e;
 }
 
 #btn-buy {
@@ -36,6 +37,7 @@ h1 {
   width: 292px;
   padding-top: 12px;
   padding-bottom: 12px;
+  border-color: #ff133e;
 }
 
 .btn-class-red {
