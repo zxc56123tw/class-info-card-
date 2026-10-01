@@ -30,6 +30,7 @@ h1 {
   padding-top: 12px;
   padding-bottom: 12px;
   border-color: #ff133e;
+  border: solid 1px;
 }
 
 #btn-buy {
@@ -40,12 +41,12 @@ h1 {
   padding-top: 12px;
   padding-bottom: 12px;
   border-color: #ff133e;
+  border: solid 1px;
 }
 
 .btn-class-red {
   /* padding-top: 16px;  */
   /* ⬆️ 原本就有？ */
-
   padding-bottom: 8px;
 }
 
@@ -69,4 +70,5 @@ ul li {
 .p-bottom {
   padding: 16px;
   font-size: 14px;
+  text-align: center;
 }
