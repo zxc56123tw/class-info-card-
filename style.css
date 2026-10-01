@@ -6,6 +6,8 @@ h1 {
 .card {
   width: 340px;
   border: solid 1px #d1d5dc;
+  margin: auto;
+  /* 要記得置中 */
 }
 
 .card-content {
